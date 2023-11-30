@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family: 'OpenSans-Light';
+	src: url("../fonts/Open_Sans/OpenSans-Light.ttf");
+	font-size: 1em;
+}
+.custom-navbar{
+	background-color: #678c99;
+}
+.custom-navbar a{
+	color: #fff1cf;
+}
+.custom-navbar a:hover{
+	color: #d6c292;
+}
+.menuresponsivo{
+	margin-left: 220px;
+}
+.menuresponsivo a{
+	font-weight: bold;
+}
+#redes_sociais li{
+	display: inline-block; /* (agrupa) deixa os ícones um do lado do outro e não em baixo */
+	margin-left: 8px;
+	margin-bottom: 70px;
+}
+#redes_sociais a{
+	font-size: 12px;
+	color: #fff1cf;
+}
+.institucional p{
+	color: #678c99;
+	font-size: 18px;
+}
+.institucional hr{
+	border-bottom: #d6c292 solid 8px;
+	width: 200px;
+	margin: 0 auto; /* centralizar o elemento */
+}
+.institucional h4{
+	 color: #b59e67;
+}
+.institucional h6{
+	color: #fff1cf;
+	font-size: 18px;
+}
+.institucional i{
+	color: #678c99;
+}
+.areas{
+	background-color: #b8c7cc;
+}
+.equipecard{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.equipe hr{
+	border-bottom: #d6c292 solid 8px;
+	width: 200px;
+	margin: 0 auto; /* centralizar o elemento */
+}
+.equipe h4{
+	 color: #b59e67;
+}
+.equipe h5{
+	color: #d6c292;
+}
+.equipe li,
+.equipe p{
+	color: #678c99;
+}
+.equipe a{
+	color: #678c99;
+}
+.card{
+	display: inline-block; 
+	margin-right: 16px;
+	margin-left: 16px;
+}
+/* texto .contato li{
+	display: inline-block;
+	margin-left: 6px;
+}
+*/
+footer .rodape a{
+	color: #678c99;
+	text-decoration: none;
+}
+footer .rodape a{
+	color: #678c99;
+}
+footer .rodape span{
+	color: #678c99;
+}
+footer .rodape i{
+	color: #678c99;
+}
+footer .rodape p{
+	color: #678c99;
+}
+footer .rodape label{
+	color: #678c99;
+}
+footer .rodape h5{
+	border-bottom: #d6c292 solid 2px;
+}
+#redes_sociais a:hover{
+	color: #d6c292;
+}
+#menu{
+	border-top: #b59e67 1px solid;
+}
+#menu li{
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#menu a{
+	font-size: 18px;
+	padding: 0px 38px 0px 38px;
+	text-decoration: none;
+	color: #fff1cf;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+#menu a:hover{
+	color: #d6c292;
+}

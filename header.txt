@@ -1,0 +1,271 @@
+<header>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-12 text-end" id="redes_sociais">
+					<ul>
+						<li>
+							<a href="#"><i class="fa-brands fa-whatsapp"></i></a>	
+						</li>
+						<li>
+							<a href="#"><i class="fa-brands fa-facebook"></i></a>	
+						</li>
+						<li>
+							<a href="#"><i class="fa-brands fa-linkedin"></i></a>	
+						</li>
+						<li>
+							<a href="#"><i class="fa-brands fa-instagram"></i></a>	
+						</li>
+						<li>
+							<a href="#"><i class="fa-brands fa-twitter"></i></a>	
+						</li>
+						<li>
+							<a href="#"><i class="fa-brands fa-discord"></i></a>	
+						</li>
+				    </ul>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-2">
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1hJ978Ww7CCOCyHtklby7-kxwbLEaRkchw&usqp=CAU" class="object-fit-cover border rounded" height="110" alt="logotipo">
+				</div>
+				<div class="col-2 text-center">
+					<h1><a href="indexteste.html">Polidoro<br>Advogados</a></h1>
+				</div>
+				<div class="col-8" id="menu">
+					<div class="col">
+						<nav class="fa-pull-left">
+							<ul>
+								<li><a href="#">Institucional</a></li>
+								<li><a href="#">Áreas de Atuação</a></li>
+								<li><a href="#">Equipe</a></li>
+								<li><a href="#">Contato</a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+	</header>
+
+	<section>
+		<div id="carouselExampleIndicators" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/banner.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="img/adv1.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="img/adv2.png" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+		</div>
+	
+	</section>
+
+
+
+<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				<div class="navbar-nav">
+        			<a class="nav-link" href="#">Início</a>
+        			<a class="nav-link" href="#">Institucional</a>
+        			<a class="nav-link" href="#">Áreas de Atuação</a>
+					<a class="nav-link" href="#">Equipe</a>
+					<a class="nav-link" href="#">Contato</a>
+      			</div>
+    		</div>
+
+<div id="carouselExampleIndicators" class="carousel slide">
+  		<div class="carousel-indicators">
+    		<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    		<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    		<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  		</div>
+  		<div class="carousel-inner">
+    		<div class="carousel-item active">
+      			<img src="https://46781.cdn.simplo7.net/static/46781/sku/quadros-por-tema-profissoes-quadro-temis-deusa-da-justica-direito-advocacia--p-1650378094798.jpg" class="d-block w-100 h-100" alt="...">
+    		</div>
+    		<div class="carousel-item">
+      			<img src="https://www.ultimatum.com.br/wp-content/uploads/2020/12/O-que-o-advogado-precisa-saber-sobre-o-direito-de-imagem-01.jpg" class="d-block w-100 h-100" alt="...">
+    		</div>
+    		<div class="carousel-item">
+      			<img src="https://www.ultimatum.com.br/wp-content/uploads/2020/12/O-que-o-advogado-precisa-saber-sobre-o-direito-de-imagem-01.jpg" class="d-block w-100 h-100" alt="...">
+    		</div>
+  		</div>
+  		<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    		<span class="visually-hidden">Previous</span>
+  		</button>
+  		<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+    		<span class="visually-hidden">Next</span>
+  		</button>
+	</div>
+
+
+ data-bs-root-margin="0px 0px -40%" 
+
+
+
+
+
+
+<footer style="background-color: #b59e67">
+		<div class="container">
+			<form>
+				<input class="form-control form-control-sm" type="text" placeholder=".form-control-sm" aria-label=".form-control-sm example">
+			</form>
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<h5>LINKS</h5>
+						<ul>
+							<li><a href="#">Institucional</a></li>
+							<li><a href="#">Áreas de Atuação</a></li>
+							<li><a href="#">Equipe</a></li>					
+						</ul>
+				</div>
+				<div class="col-6 contato">
+					<h5 id="scrollspyHeading4">CONTATO</h5>
+					<address>
+						<i class="fa fa-map-marker"></i><span> 618 E.South Street, Suite 510 <br> Orlando, FL 32801</span>
+					</address>
+					<p><a href="tel:1855ORLCITY"><i class="fa fa-phone"></i> 1.855.ORL.CITY</a></p>
+				</div>
+			</div>
+		</div>
+		<div class="container" style="color: #000000;">
+			<p>Todos os direitos reservados  <i class="fa-regular fa-copyright"></i> - Siqueira & Cezarino Advogados - 2023 | Desenvolvido por: <a href="#">Daniela Polidoro</a></p> 
+		
+		</div>
+	</footer>
+
+ 35 3438-2390
+
+
+
+
+<div class="col-10">
+					<h6>Como podemos ajudá-lo?</h6>
+	  				<div class="mb-3">
+			  <label for="exampleFormControlInput1" class="form-label">E-mail</label>
+  				<input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
+			</div>
+					<div class="mb-3">
+			  <label for="exampleFormControlInput1" class="form-label">Telefone</label>
+  				<input type="number" class="form-control" id="exampleFormControlInput2" placeholder="+55 11...">
+			</div>
+			<div class="mb-3">
+  				<label for="exampleFormControlTextarea1" class="form-label">Texto</label>
+  				<textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Gostaria de receber ajuda jurídica mediante..."></textarea>
+			</div>
+					<input type="checkbox" class="btn-check" id="btn-check-5" checked autocomplete="off">
+<label class="btn" for="btn-check-5">Enviar</label>
+          		</div>
+			</div>
+
+
+<form>
+          				<h5 class="mt-5" style="color: #b59e67">Newsletter</h5>
+          				<p>Ficaremos muito felizes em poder ajudá-los.</p>
+          			<div class="d-flex flex-column flex-sm-row w-100 gap-2">
+            			<label for="newsletter1" class="visually-hidden" style="color: #678c99">E-mail</label>
+            			<input id="newsletter1" type="text" class="form-control" placeholder="E-mail">
+           				<button class="btn btn-light" type="button">Inscrever</button>
+			 		</div>
+					</form>
+
+
+formulário bootstrap:
+
+<div class="col-10 mt-4">
+				<div class="mb-3">
+					<input type="text" name="name" required>
+  					<label for="exampleFormControlTextarea1" class="form-label">Como podemos ajudá-lo?</label>
+  					<textarea class="form-control" id="exampleFormControlTextarea1" rows="1" placeholder="Gostaria de receber ajuda jurídica..."></textarea>
+				</div>
+				<div class="mb-3">
+					<label for="exampleFormControlInput1" class="form-label">E-mail:</label>
+					<input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
+				</div>
+				<div class="mb-3">
+			  		<label for="exampleFormControlInput1" class="form-label">Telefone:</label>
+  					<input type="number" class="form-control" id="exampleFormControlInput2" placeholder="+55 11...">
+				</div>
+					<button class="btn btn-light" type="button">Enviar</button>
+          		</div>
+
+
+formulário simples:
+
+				<form action="https://formsubmit.co/dannyamaral80@gmail.com" method="POST">
+					<input type="text" name="name" placeholder="Nome"/>
+					<input type="text" name="subject" placeholder="Assunto"/>
+     				<textarea name="message" placeholder="Mensagem"></textarea>
+     				<button type="submit">Enviar</button>
+				</form>
+
+*uso de com cópia no e-mail que irá receber do formulário*:
+<input type="hidden" name="_cc" value="daniela.polidoro@outlook.com">
+
+*o cliente receber um email confirmando o envio da mensagem*:
+<input type="hidden" name="_autoresponse" value="Recebemos a sua mensagem, obrigada pelo contato e logo responderemos!">
+
+<input type="hidden" name="_captcha" value="false">
+
+envio de dados via jquery para mostrar mensagem:
+
+dentro do form colocar exemplo: id="form_contato"
+
+dentro de button colocar um id e type="button"
+
+script:
+
+$("#btn_enviar").click(function(){
+			$.ajax({
+			  type: 'POST',
+			  url: $("#form_contato").attr("action"),
+			  data: $("#form_contato").serialize(), 
+			  //or your custom data either as object {foo: "bar", ...} or foo=bar&...
+			  success: function(response) {
+				  Swal.fire(
+					  'Mensagem de Contato',
+					  'Sua mensagem foi enviada com sucesso!',
+					  'success'
+					);
+				  
+				  $("input").val("");
+				  $("textarea").val("");
+			  },
+				error: function(response) {
+					 Swal.fire(
+					  'Mensagem de Contato',
+					  'Sua mensagem não foi enviada',
+					  'error'
+					)
+				}
+			});
+		});
+
+no inicio do html colocar:
+	<script
+  src="https://code.jquery.com/jquery-3.7.1.js"
+  integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+  crossorigin="anonymous"></script>
